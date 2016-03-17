@@ -3,8 +3,8 @@ http://chrishoca.github.io/
 
 http://www.chrisstephensonyalnizdegildir.com
 
-Merhaba, bizler Chris Hoca'nin ogrencileri ve akademide beraber calismis arkadaslari olarak kendisine destek olma umuduyla boyle bir proje baslattik.
+Merhaba, bizler Chris Hoca'nın öğrencileri ve akademide beraber çalışmış arkadaşları olarak kendisine destek olma umuduyla böyle bir proje başlattık.
 
-Isteyenlerin destek amacli imza atabilecegi, farkli mecralardaki haberlerin derlendigi, sosyal medya yansimalarinin yer aldigi bir web sitesi yapiyoruz.
+İsteyenlerin destek amaçlı imza atabileceği, farklı mecralardaki haberlerin derlendiği, sosyal medya yansımalarının yer aldığı bir web sitesi yapiyoruz.
 
-Elbette kodlari acik, katki vermek serbest. Bu yazilanlari okumus olmaniz bile bizim icin degerli. Tesekkurler.
+Elbette kodları açık, katkı vermek serbest. Bu yazılanları okumuş olmanız bile bizim icin değerli. Tesekkürler...
